@@ -12,7 +12,6 @@ class ClasesSpec extends AnyFlatSpec with Matchers {
 
   "2. El cubo de 2 " should "8" in {
     comp.cubo(2) shouldEqual 8
-
   }
 
   "3. Despachar IO" should " true " in {
